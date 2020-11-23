@@ -1,0 +1,12 @@
+# Site settings
+title: Wizard of Things
+email: eric@thedevmonk@gmail.com
+description: "Wizard of Things" 
+baseurl: ""
+url: "https://www.wizard-of-things.com"
+
+twitter_username: DevmonkZA
+github_username: wizard-of-things
+
+# Build settings
+markdown: kramdown
